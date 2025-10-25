@@ -42,22 +42,41 @@ This repository contains a **complete, production-ready learning path** for beco
 
 ---
 
+## ✨ What's New
+
+**Recently Added Content:**
+- 📝 **Comprehensive Quizzes** for modules 102-110 (265+ questions)
+  - Module 102: Cloud Computing (mid-module + final, 50 questions)
+  - Module 103: Containerization (25 questions)
+  - Module 104: Kubernetes (30 questions)
+  - Module 105: Data Pipelines (25 questions)
+  - Module 106: MLOps (30 questions)
+  - Module 107: GPU Computing (25 questions)
+  - Module 108: Monitoring (25 questions)
+  - Module 109: IaC (25 questions)
+  - Module 110: LLM Infrastructure (30 questions)
+- 📋 **Technology Versions Guide** - Complete specifications for 100+ tools
+- 🗺️ **Curriculum Cross-Reference** - Mapping to Junior track
+- 📈 **Career Progression Guide** - Engineer to Principal roadmap
+
+---
+
 ## 📊 What's Included
 
 ### 10 Complete Learning Modules (130 Files)
 
-| Module | Topic | Hours | Status |
-|--------|-------|-------|--------|
-| 01 | **Foundations** | 50h | ✅ Complete (15 files) |
-| 02 | **Cloud Computing** | 50h | ✅ Complete (11 files) |
-| 03 | **Containerization** | 50h | ✅ Complete (14 files) |
-| 04 | **Kubernetes** | 50h | ✅ Complete (13 files) |
-| 05 | **Data Pipelines** | 50h | ✅ Complete (12 files) |
-| 06 | **MLOps** | 50h | ✅ Complete (12 files) |
-| 07 | **GPU Computing** | 50h | ✅ Complete (12 files) |
-| 08 | **Monitoring & Observability** | 50h | ✅ Complete (11 files) |
-| 09 | **Infrastructure as Code** | 50h | ✅ Complete (12 files) |
-| 10 | **LLM Infrastructure** | 50h | ✅ Complete (12 files) |
+| Module | Topic | Hours | Status | Quiz |
+|--------|-------|-------|--------|------|
+| 01 | **Foundations** | 50h | ✅ Complete (15 files) | ✅ 30Q |
+| 02 | **Cloud Computing** | 50h | ✅ Complete (11 files) | ✨ **+50Q** |
+| 03 | **Containerization** | 50h | ✅ Complete (14 files) | ✨ **+25Q** |
+| 04 | **Kubernetes** | 50h | ✅ Complete (13 files) | ✨ **+30Q** |
+| 05 | **Data Pipelines** | 50h | ✅ Complete (12 files) | ✨ **+25Q** |
+| 06 | **MLOps** | 50h | ✅ Complete (12 files) | ✨ **+30Q** |
+| 07 | **GPU Computing** | 50h | ✅ Complete (12 files) | ✨ **+25Q** |
+| 08 | **Monitoring & Observability** | 50h | ✅ Complete (11 files) | ✨ **+25Q** |
+| 09 | **Infrastructure as Code** | 50h | ✅ Complete (12 files) | ✨ **+25Q** |
+| 10 | **LLM Infrastructure** | 50h | ✅ Complete (12 files) | ✨ **+30Q** |
 
 ### 3 Production-Grade Projects (77 Files)
 
@@ -381,6 +400,11 @@ All learning materials can be completed within **free tier limits**:
 - 🛠️ **Tools Guide**: [resources/tools.md](./resources/tools.md)
 - 📊 **References**: [resources/references.md](./resources/references.md)
 - ❓ **FAQ**: [resources/faq.md](./resources/faq.md)
+
+### Curriculum Documentation
+- 📋 **[Technology Versions Guide](VERSIONS.md)** - Recommended versions for all tools and frameworks
+- 🗺️ **[Curriculum Cross-Reference](https://github.com/ai-infra-curriculum/.github/blob/main/CURRICULUM_CROSS_REFERENCE.md)** - Mapping between Junior and Engineer tracks
+- 📈 **[Career Progression Guide](https://github.com/ai-infra-curriculum/.github/blob/main/CAREER_PROGRESSION.md)** - Complete career ladder from Junior to Principal
 
 ---
 
